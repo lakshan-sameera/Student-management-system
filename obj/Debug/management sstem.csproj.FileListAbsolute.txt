@@ -1,0 +1,30 @@
+E:\DI TEC\management sstem\bin\Debug\management sstem.exe.config
+E:\DI TEC\management sstem\bin\Debug\management sstem.exe
+E:\DI TEC\management sstem\bin\Debug\management sstem.pdb
+E:\DI TEC\management sstem\obj\Debug\management sstem.csproj.AssemblyReference.cache
+E:\DI TEC\management sstem\obj\Debug\management sstem.csproj.SuggestedBindingRedirects.cache
+E:\DI TEC\management sstem\obj\Debug\management_sstem.F1.resources
+E:\DI TEC\management sstem\obj\Debug\management_sstem.Properties.Resources.resources
+E:\DI TEC\management sstem\obj\Debug\management sstem.csproj.GenerateResource.cache
+E:\DI TEC\management sstem\obj\Debug\management sstem.csproj.CoreCompileInputs.cache
+E:\DI TEC\management sstem\obj\Debug\management sstem.exe
+E:\DI TEC\management sstem\obj\Debug\management sstem.pdb
+E:\DI TEC\management sstem\obj\Debug\management_sstem.F2.resources
+E:\DI TEC\management sstem\obj\Debug\management_sstem.FADD.resources
+E:\DI TEC\management sstem\obj\Debug\management_sstem.FEDIT.resources
+E:\DI TEC\management sstem\obj\Debug\management_sstem.FREMO.resources
+E:\DI TEC\Management System\bin\Debug\management sstem.exe.config
+E:\DI TEC\Management System\bin\Debug\management sstem.exe
+E:\DI TEC\Management System\bin\Debug\management sstem.pdb
+E:\DI TEC\Management System\obj\Debug\management sstem.csproj.AssemblyReference.cache
+E:\DI TEC\Management System\obj\Debug\management sstem.csproj.SuggestedBindingRedirects.cache
+E:\DI TEC\Management System\obj\Debug\management_sstem.F1.resources
+E:\DI TEC\Management System\obj\Debug\management_sstem.F2.resources
+E:\DI TEC\Management System\obj\Debug\management_sstem.FADD.resources
+E:\DI TEC\Management System\obj\Debug\management_sstem.FEDIT.resources
+E:\DI TEC\Management System\obj\Debug\management_sstem.FREMO.resources
+E:\DI TEC\Management System\obj\Debug\management_sstem.Properties.Resources.resources
+E:\DI TEC\Management System\obj\Debug\management sstem.csproj.GenerateResource.cache
+E:\DI TEC\Management System\obj\Debug\management sstem.csproj.CoreCompileInputs.cache
+E:\DI TEC\Management System\obj\Debug\management sstem.exe
+E:\DI TEC\Management System\obj\Debug\management sstem.pdb
